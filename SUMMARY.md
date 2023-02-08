@@ -1,3 +1,0 @@
-# Table of contents
-
-* [👩💻 JAVASCRIPT SYNCHRONOUS AND ASYNCHRONOUS](README.md)
